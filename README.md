@@ -94,3 +94,15 @@ chmod [PERMISSÃO_DONO][PERMISSÃO_GRUPO][PERMISSÃO_DE_OUTROS] [DIRETÓRIO_OU_A
 |**Execução**|**x**|**1**|
 |**Nenhuma**| **-**|**0**|
 
+### ***Tornando script em executavel um arquivo exeutavel:***
+```
+chmod +x [ARQUIVO]
+chmod +x script.sh
+```
+
+#### ***Executando o script:***
+```
+/.[ARQUIVO]
+/.script.sh
+```
+
